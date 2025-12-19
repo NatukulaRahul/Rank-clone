@@ -3661,6 +3661,12 @@ color:#fff;
   color: var(--brand-color);
 }
 
+.card-icon {
+  font-size: 30px;
+  flex-shrink: 0;
+  color: var(--brand-color); /* 🔥 icon color always same as brand */
+}
+
 .color-red { --brand-color: #ff4d4d; }
 .color-cyan { --brand-color: #00f2ff; }
 .color-green { --brand-color: #44ff44; }
@@ -4664,9 +4670,8 @@ color:#fff;
 
 
 .seo-importance-section {
- 
-  background: 
-              url(/images/dark-red-smoke-bg.jpg); 
+ background: 
+              url('../images/dark-red-smoke-bg.jpg'); 
   background-color: #000;
   background-size: cover;
   background-position: center;
