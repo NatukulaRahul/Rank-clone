@@ -4554,8 +4554,8 @@ color:#fff;
 .how-it-helps-section {
   
   background: 
-              url('/images/dark-red-smoke-bg.jpg'); 
-  /* background-color: #000; */
+               url('../images/dark-red-smoke-bg.jpg'); 
+ 
   background-size: cover;
   background-position: center;
   padding: 50px 60px; 
