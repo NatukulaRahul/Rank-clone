@@ -1555,7 +1555,7 @@ color:#fff;
 
 .ethos-section {
    background: 
-              url('../images/dark-red-smoke-bg.jpg'); 
+              url('../images/dark-red-smoke-bg.jpg')center / cover no-repeat; 
   color: #fff;
   padding: 100px 40px;
   font-family: 'Urbanist', sans-serif;
