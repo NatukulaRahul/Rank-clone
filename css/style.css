@@ -1554,7 +1554,8 @@ color:#fff;
 
 
 .ethos-section {
-  background: #000 url('/images/dark-red-smoke-bg.jpg') center/cover no-repeat;
+   background: 
+              url('../images/dark-red-smoke-bg.jpg'); 
   color: #fff;
   padding: 100px 40px;
   font-family: 'Urbanist', sans-serif;
@@ -4554,7 +4555,7 @@ color:#fff;
 .how-it-helps-section {
   
   background: 
-               url('../images/dark-red-smoke-bg.jpg'); 
+              url('../images/dark-red-smoke-bg.jpg'); 
  
   background-size: cover;
   background-position: center;
